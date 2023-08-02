@@ -39,13 +39,13 @@ public class Main {
 			new ExternalKeyword().testPerformance(cookie, jmx);
 
 			//if the step is OK, response with "Passed" ->  System.out.prinln("Passed");
-			if(passed){
-				System.out.println("Passed");
-			}
+//			if(passed){
+//				System.out.println("Passed");
+//			}
 			//if the step Fails, response with something else than "Passed" ->  System.out.prinln("Write the error");
-			else{
-				System.out.println("Error Message..");
-			}
+//			else{
+//				System.out.println("Error Message..");
+//			}
 			return;
 		    
 	    
@@ -53,25 +53,5 @@ public class Main {
 			System.out.println(e.getMessage());
 		}
 
-	}
-	
-	private static WebElement getElement(String xpath, WebDriver driver) throws Exception{
-		
-		try {
-			WebElement element = null;
-			
-			WebDriverWait wait = new WebDriverWait(driver, 60);
-			try {
-				wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(xpath)));
-			} catch (Exception e) {				
-				throw new Exception("Element not found: " + e.getMessage());
-			}
-			
-			element = driver.findElement(By.xpath(xpath));
-			            
-			return element;
-		} catch (NoSuchElementException e) {			
-			throw new Exception("Element not found: " + e.getMessage());
-		}
 	}
 }

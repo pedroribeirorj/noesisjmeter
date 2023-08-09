@@ -1,2 +1,0 @@
-# JMeter generated Cookie file
-timntx.brazilsouth.cloudapp.azure.com	TRUE	/NTX	FALSE	0	JSESSIONID	5D899AA85BEBBF04C16553ED3AC5021C

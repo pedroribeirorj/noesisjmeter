@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691607156182,304,ntx/-273,400,Bad Request,Grupo de Usuários 1-1,text,false,,200,496,1,1,http://r3.o.lencr.org/,303,0,79
+1691607156493,2504,ntx/NTX/ntxLogin-291,200,,Grupo de Usuários 1-1,text,true,,97328,933,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/ntxIndexDashboard,480,0,250
+1691607156493,480,ntx/NTX/ntxLogin-291-0,302,,Grupo de Usuários 1-1,,true,,155,462,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/ntxLogin,480,0,250
+1691607157017,1980,ntx/NTX/ntxLogin-291-1,200,,Grupo de Usuários 1-1,text,true,,97173,471,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/ntxIndexDashboard,1153,0,0
+1691607158999,204,ntx/NTX/img/ntx_logo.svg-317,200,,Grupo de Usuários 1-1,text,true,,3026,453,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/img/ntx_logo.svg,204,0,0
+1691607159205,212,ntx/NTX/img/ntx_pattern.svg-318,200,,Grupo de Usuários 1-1,text,true,,1286,456,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/img/ntx_pattern.svg,212,0,0
+1691607156058,3224,ntx,,"Number of samples in transaction : 4, number of failing samples : 1",Grupo de Usuários 1-1,,false,,101840,2338,1,1,null,1199,136,329
+1691607159420,235,ntx/NTX/ntxLogin?POSTOption=Login&username=admin&ntxUrl=http%3A%2F%2Fsrvwp15.westeurope.cloudapp.azure.com%3A8084%2FNTX%2FntxLogin&auth=U2FsdGVkX1%2FPZAceBOXwZHxHN4DCU9kyRbh5nmGoA%2Fw%3D-322,200,,Grupo de Usuários 1-1,,true,,122,789,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/ntxLogin?POSTOption=Login&username=admin&ntxUrl=http%3A%2F%2Fsrvwp15.westeurope.cloudapp.azure.com%3A8084%2FNTX%2FntxLogin&auth=U2FsdGVkX1%2FPZAceBOXwZHxHN4DCU9kyRbh5nmGoA%2Fw%3D,235,0,0
+1691607159670,901,ntx/NTX/ntxIndexDashboard-323,200,,Grupo de Usuários 1-1,text,true,,97173,544,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/ntxIndexDashboard,675,0,0
+1691607160572,419,ntx/NTX/fonts/fa-solid-900.woff2-376,200,,Grupo de Usuários 1-1,text,true,,74578,519,1,1,http://srvwp15.westeurope.cloudapp.azure.com:8084/NTX/fonts/fa-solid-900.woff2,211,0,0
+1691607159419,1555,ntx,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Usuários 1-1,,true,,171873,1852,1,1,null,1121,18,0

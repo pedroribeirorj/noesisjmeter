@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="304" it="0" lt="303" ct="79" ts="1691607156182" s="false" lb="ntx/-273" rc="400" rm="Bad Request" tn="Grupo de Usuários 1-1" dt="text" de="" by="200" sby="496" sc="1" ec="1" ng="1" na="1" hn="NELTBR16">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: max-age=0, no-cache
+Date: Wed, 09 Aug 2023 18:52:37 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Content-Type: application/ocsp-request
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: */*
+Content-Length: 134
+Host: r3.o.lencr.org
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;yȘQ��n&#x12;Wa&#xd;
+�{�^�U</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<sample t="3224" it="136" lt="1199" ct="329" ts="1691607156058" s="false" lb="ntx" rc="" rm="Number of samples in transaction : 4, number of failing samples : 1" tn="Grupo de Usuários 1-1" dt="" de="" by="101840" sby="2338" sc="1" ec="1" ng="1" na="1" hn="NELTBR16">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+</sample>
+
+</testResults>

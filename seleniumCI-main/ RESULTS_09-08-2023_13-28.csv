@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691598484324,123,ntx/NTX/ntxLogin-215,200,,Grupo de Usuários 1-1,text,true,,3139,462,1,1,http://timntx.brazilsouth.cloudapp.azure.com:8084/NTX/ntxLogin,123,0,84
+1691598484258,123,ntx,200,"Number of samples in transaction : 1, number of failing samples : 0",Grupo de Usuários 1-1,,true,,3139,462,1,1,null,123,69,84
+1691598484451,45,ntx/NTX/ntxLogin?POSTOption=Login&username=admin&ntxUrl=http%3A%2F%2Ftimntx.brazilsouth.cloudapp.azure.com%3A8084%2FNTX%2FntxLogin&auth=U2FsdGVkX1%2FeZrKDooqN0htVs2Po9NZ%2FEGMPOolHDw4%3D-231,200,,Grupo de Usuários 1-1,,true,,122,789,1,1,http://timntx.brazilsouth.cloudapp.azure.com:8084/NTX/ntxLogin?POSTOption=Login&username=admin&ntxUrl=http%3A%2F%2Ftimntx.brazilsouth.cloudapp.azure.com%3A8084%2FNTX%2FntxLogin&auth=U2FsdGVkX1%2FeZrKDooqN0htVs2Po9NZ%2FEGMPOolHDw4%3D,45,0,0
+1691598484496,2897,ntx/NTX/ntxIndexDashboard-232,200,,Grupo de Usuários 1-1,text,true,,84806,544,1,1,http://timntx.brazilsouth.cloudapp.azure.com:8084/NTX/ntxIndexDashboard,2814,0,0
+1691598487395,71,ntx/NTX/fonts/fa-solid-900.woff2-274,200,,Grupo de Usuários 1-1,text,true,,74578,519,1,1,http://timntx.brazilsouth.cloudapp.azure.com:8084/NTX/fonts/fa-solid-900.woff2,32,0,0
+1691598484450,3013,ntx,200,"Number of samples in transaction : 3, number of failing samples : 0",Grupo de Usuários 1-1,,true,,159506,1852,1,1,null,2891,4,0
